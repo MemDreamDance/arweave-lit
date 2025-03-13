@@ -7,5 +7,5 @@ npx arlocal
 Mint arweave balance:
 
 ```
-localhost:1984/<address>/mint
+localhost:1984/mint/<address>
 ```
